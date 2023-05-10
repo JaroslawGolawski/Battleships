@@ -1,8 +1,8 @@
 ﻿namespace Battleships
 {
-    internal class Board
+    public class Board
     {
-        private char[,] board;
+        public char[,] board { get; set; }
 
         public Board()
         {
@@ -72,7 +72,7 @@
         }
 
         // Place a ship at a given location
-        private void PlaceShip(Ship ship, int row, int col, bool horizontal)
+        public void PlaceShip(Ship ship, int row, int col, bool horizontal)
         {
             int len = ship.Size;
             if (horizontal)

@@ -13,3 +13,18 @@ C:\Jarosław Goławski\Repos\BattleshipsGame\Battleships\Battleships\obj\Debug\n
 C:\Jarosław Goławski\Repos\BattleshipsGame\Battleships\Battleships\obj\Debug\net6.0\Battleships.pdb
 C:\Jarosław Goławski\Repos\BattleshipsGame\Battleships\Battleships\obj\Debug\net6.0\Battleships.genruntimeconfig.cache
 C:\Jarosław Goławski\Repos\BattleshipsGame\Battleships\Battleships\obj\Debug\net6.0\ref\Battleships.dll
+C:\Jarosław_Goławski\Repos\RemoteBattleships\Battleships\Battleships\bin\Debug\net6.0\Battleships.exe
+C:\Jarosław_Goławski\Repos\RemoteBattleships\Battleships\Battleships\bin\Debug\net6.0\Battleships.deps.json
+C:\Jarosław_Goławski\Repos\RemoteBattleships\Battleships\Battleships\bin\Debug\net6.0\Battleships.runtimeconfig.json
+C:\Jarosław_Goławski\Repos\RemoteBattleships\Battleships\Battleships\bin\Debug\net6.0\Battleships.dll
+C:\Jarosław_Goławski\Repos\RemoteBattleships\Battleships\Battleships\bin\Debug\net6.0\Battleships.pdb
+C:\Jarosław_Goławski\Repos\RemoteBattleships\Battleships\Battleships\obj\Debug\net6.0\Battleships.csproj.AssemblyReference.cache
+C:\Jarosław_Goławski\Repos\RemoteBattleships\Battleships\Battleships\obj\Debug\net6.0\Battleships.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jarosław_Goławski\Repos\RemoteBattleships\Battleships\Battleships\obj\Debug\net6.0\Battleships.AssemblyInfoInputs.cache
+C:\Jarosław_Goławski\Repos\RemoteBattleships\Battleships\Battleships\obj\Debug\net6.0\Battleships.AssemblyInfo.cs
+C:\Jarosław_Goławski\Repos\RemoteBattleships\Battleships\Battleships\obj\Debug\net6.0\Battleships.csproj.CoreCompileInputs.cache
+C:\Jarosław_Goławski\Repos\RemoteBattleships\Battleships\Battleships\obj\Debug\net6.0\Battleships.dll
+C:\Jarosław_Goławski\Repos\RemoteBattleships\Battleships\Battleships\obj\Debug\net6.0\refint\Battleships.dll
+C:\Jarosław_Goławski\Repos\RemoteBattleships\Battleships\Battleships\obj\Debug\net6.0\Battleships.pdb
+C:\Jarosław_Goławski\Repos\RemoteBattleships\Battleships\Battleships\obj\Debug\net6.0\Battleships.genruntimeconfig.cache
+C:\Jarosław_Goławski\Repos\RemoteBattleships\Battleships\Battleships\obj\Debug\net6.0\ref\Battleships.dll

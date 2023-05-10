@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9Bj8Qrll2oVMD2Ck8BQ5uE1QFhmWXXb7qmSAiU5U3hXQnfF6LH6gGmUiBe/FtFYk+UyyZe1tr/abStKsfb5h0g==",
+  "dgSpecHash": "ionWvavgqWMiOi29WD8RnZ7EHQWT0MqbzqVzNv+LRRnOQ6xvE9vZflo4EpJ6Cpgm4ZvsQT7OyOO+QuLzOH6ZTQ==",
   "success": true,
-  "projectFilePath": "C:\\Jarosław Goławski\\Repos\\BattleshipsGame\\Battleships\\Battleships\\Battleships.csproj",
+  "projectFilePath": "C:\\Jarosław_Goławski\\Repos\\RemoteBattleships\\Battleships\\Battleships\\Battleships.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
